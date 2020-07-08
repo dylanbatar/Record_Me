@@ -262,7 +262,7 @@ class __NewCategoryBodyState extends State<_NewCategoryBody> {
               ModalTrigger(
                 child: FloatingActionButton(
                   onPressed: null,
-                  child: Icon(
+                  child: FaIcon(
                     icons[dropdownValue],
                     color: Colors.white,
                   ),
